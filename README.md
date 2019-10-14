@@ -1,2 +1,1 @@
-# raid-test
-raid CI
+[{"id":"7ce450afc5beb","type":"start-node","z":"b5da480db8ea49e098db189af2706519","name":"Start","screenShotConf":"All","payload":"","payloadType":"date","x":266.01736068725586,"y":85.01041603088379,"wires":[["917b969ebc32f8"]]}]
